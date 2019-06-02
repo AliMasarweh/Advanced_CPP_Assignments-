@@ -1,0 +1,6 @@
+﻿  Document.cpp
+c:\users\ali masarweh\source\repos\documenteditor\documenteditor\document.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  Editor.cpp
+  main.cpp
+  Generating Code...
+  DocumentEditor.vcxproj -> C:\Users\Ali Masarweh\source\repos\DocumentEditor\Debug\DocumentEditor.exe
